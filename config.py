@@ -11,8 +11,8 @@ class DefaultConfig:
     """ Bot Configuration """
 
     PORT = 8000
-    APP_ID = "de59063a-9ffc-443e-826d-e3a1de58e85a"
-    APP_PASSWORD = "RJjGaS]6rf8xeRTUtMH2$nIfMx{.H"
+    APP_ID = "b31150bf-6064-4a9c-9d09-e11ac7f4a863"
+    APP_PASSWORD = "16n3_-Qka99uud~_soI~_0_FBqojvJ.b0H"
 #     LUIS_APP_ID = '29aefb92-1c23-4372-8a32-eacfa09da70c'
 #     LUIS_API_KEY = '8424fcd8075041259e277d7ddbc4e860'   
 #     LUIS_API_HOST_NAME = 'https://westus.api.cognitive.microsoft.com/'
