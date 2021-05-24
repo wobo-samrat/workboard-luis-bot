@@ -1,0 +1,29 @@
+{
+
+
+"utterance" : 
+    {
+
+    "welcome_msg" : [ "Hello ! What can I help you with today?",
+                      "Hi, How may I help you?"],
+                    
+    "not_understand_msg" : ["Sorry, I didn't get that.",
+                            "Hi, Didnt quite understand your query",
+                            "Looks like out of my scope"],
+                    
+                    
+    "final_prompt" : ["What else can I do for you?","Let me know for anything else","Please continue if you wish"],
+
+    "only_okr_msg": ["Currently Bot serves only Show /Update OKR related queries . Please ask relevant questions",
+                    "Pardon ,we are just made for serving OKR related queries .Could you please ask accordingly "],
+
+    "greet_back" : ["hello . Lets start" , "welcome . let's catch up", " Hi I am here to chat ."]
+    
+
+    }, 
+
+
+"action" : {}
+
+}
+

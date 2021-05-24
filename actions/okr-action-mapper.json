@@ -1,0 +1,51 @@
+{
+
+"utterance" : 
+    {
+
+    "ask_objectives" : ["would you like me to take to your objectives?",
+                        "would you like to see a summary?"],
+                    
+    "route_okr" : ["Here you go.","Here's the situation.","You got it Boss.",
+                    "Coming now. ","On their way.","Cruising along."],
+                    
+                    
+    "close_okr" : ["ok.Let's close then.","fine No problem." , "ok see ya then."],
+    
+    "show_help" : ["please wait ..transfering to admin.","will contact helpdesk.."],
+
+    "cancel": ["Fine . See you again." , "Done and dusted . Good luck."],
+
+    "msg_start_update" : ["Let's get started with this.",
+                       "This is going to be easy.",
+                       "Let's get this done and out of your way."
+                        ],
+    
+    "msg_update_true" : ["All results are upto date",
+                          "Your team has the facts they need from you to make smarter decisions.",
+                          "If you have already knocked this down,Let's update your results.",
+                           "Your team has the fact they needs from you to make smarter decisions."
+                           ],
+
+    "msg_update_false" : ["You have'nt quite knocked down the okr's . let's update. ",
+                           "seems your OKR not updated . Time to step the gas.Lets update your results. "],
+
+    "msg_submit_okr_pass" : ["Congratulations ! You have done a great job.", 
+                             "Nice work Keep it up.",
+                             "Kudoos , you did it."],
+
+    "msg_submit_okr_fail": ["No problem .  I will connect you to the admin team.",
+                            "ok Let me check .I route you to admin team.",
+                            "Sorry . Looks like have to revert to the admin team."]
+
+    }, 
+
+"action" : {}
+
+}
+
+
+
+
+
+
